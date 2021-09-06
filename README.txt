@@ -79,7 +79,7 @@ rsrq:			RSRQ (in dB) of measured cell
 type:			type of measured cell - PCell/SCell/neighbor cell	
 
 -------------------------------------------------------------------------------
-Handoff instances
+Handoff instances: handoffs.csv
 -------------------------------------------------------------------------------
 
 This is the collection of all handoffs collected during heavy downloading tests.
